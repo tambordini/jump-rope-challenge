@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "homepage": "https://tambordini.github.io/jump-rope-challenge",
-  "main": "src/index.tsx",
+  "main": "src/index.js",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
