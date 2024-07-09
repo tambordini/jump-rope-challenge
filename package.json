@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://YOUR_USERNAME.github.io/jump-rope-challenge",
   "main": "src/index.tsx",
   "dependencies": {
     "react": "^18.0.0",
@@ -20,9 +21,12 @@
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.15",
     "loader-utils": "3.2.1",
-    "typescript": "4.4.4"
+    "typescript": "4.4.4",
+    "gh-pages": "latest"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

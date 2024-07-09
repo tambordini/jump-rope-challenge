@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d22f047.css",
-    "main.js": "/static/js/main.d85c96b4.js",
-    "index.html": "/index.html",
-    "main.5d22f047.css.map": "/static/css/main.5d22f047.css.map",
-    "main.d85c96b4.js.map": "/static/js/main.d85c96b4.js.map"
+    "main.css": "/jump-rope-challenge/static/css/main.5d22f047.css",
+    "main.js": "/jump-rope-challenge/static/js/main.d85c96b4.js",
+    "index.html": "/jump-rope-challenge/index.html",
+    "main.5d22f047.css.map": "/jump-rope-challenge/static/css/main.5d22f047.css.map",
+    "main.d85c96b4.js.map": "/jump-rope-challenge/static/js/main.d85c96b4.js.map"
   },
   "entrypoints": [
     "static/css/main.5d22f047.css",
