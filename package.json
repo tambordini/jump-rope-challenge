@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://YOUR_USERNAME.github.io/jump-rope-challenge",
+  "homepage": "https://tambordini.github.io/jump-rope-challenge",
   "main": "src/index.tsx",
   "dependencies": {
     "react": "^18.0.0",
